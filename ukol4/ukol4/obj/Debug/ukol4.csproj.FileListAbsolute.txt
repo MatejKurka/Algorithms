@@ -1,0 +1,7 @@
+C:\Users\mujha\source\repos\ukol4\ukol4\bin\Debug\ukol4.exe.config
+C:\Users\mujha\source\repos\ukol4\ukol4\bin\Debug\ukol4.exe
+C:\Users\mujha\source\repos\ukol4\ukol4\bin\Debug\ukol4.pdb
+C:\Users\mujha\source\repos\ukol4\ukol4\obj\Debug\ukol4.csproj.AssemblyReference.cache
+C:\Users\mujha\source\repos\ukol4\ukol4\obj\Debug\ukol4.csproj.CoreCompileInputs.cache
+C:\Users\mujha\source\repos\ukol4\ukol4\obj\Debug\ukol4.exe
+C:\Users\mujha\source\repos\ukol4\ukol4\obj\Debug\ukol4.pdb

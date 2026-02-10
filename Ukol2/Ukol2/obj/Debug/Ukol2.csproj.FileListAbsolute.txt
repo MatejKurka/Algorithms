@@ -1,0 +1,7 @@
+C:\Users\mujha\source\repos\Ukol2\Ukol2\bin\Debug\Ukol2.exe.config
+C:\Users\mujha\source\repos\Ukol2\Ukol2\bin\Debug\Ukol2.exe
+C:\Users\mujha\source\repos\Ukol2\Ukol2\bin\Debug\Ukol2.pdb
+C:\Users\mujha\source\repos\Ukol2\Ukol2\obj\Debug\Ukol2.csproj.AssemblyReference.cache
+C:\Users\mujha\source\repos\Ukol2\Ukol2\obj\Debug\Ukol2.csproj.CoreCompileInputs.cache
+C:\Users\mujha\source\repos\Ukol2\Ukol2\obj\Debug\Ukol2.exe
+C:\Users\mujha\source\repos\Ukol2\Ukol2\obj\Debug\Ukol2.pdb
